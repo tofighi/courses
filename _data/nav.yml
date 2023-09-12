@@ -5,5 +5,5 @@ items:
 
 - url: /policies/
   name: Policies
-  icon_class: fas fa-scale-balanced
+  icon_class: fas fa-clipboard
 
