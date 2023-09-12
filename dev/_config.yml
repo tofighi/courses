@@ -54,4 +54,5 @@ defaults:
 
 
 plugins_dir:
+    - "jekyll-github-metadata"
     - jekyll-jalali
