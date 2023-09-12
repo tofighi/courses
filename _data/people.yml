@@ -1,19 +1,9 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/people/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/people/mcgonagall.jpg
+  - name: Ghassem Tofighi
+    profile_pic: /_images/people/ghassem.jpg
+    webpage: https://ghassem.com
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/people/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
-
-  - name: Hermione Granger
-    profile_pic: /_images/people/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
-
-  - name: Ron Weasley
-    profile_pic: /_images/people/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: TBD
+    profile_pic: /_images/people/avatar.jpg
+    webpage: #
