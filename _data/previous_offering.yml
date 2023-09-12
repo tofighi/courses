@@ -1,8 +1,9 @@
-<!---
+{% comment %}
 offerings:
   - title: Fall 1997
     url: https://previous_course_website.url/
   
   - title: Fall 1996
     url: https://previous_course_website.url/
--->
+{% endcomment %}
+
