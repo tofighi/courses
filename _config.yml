@@ -1,7 +1,7 @@
 # Site settings
-course_name: Pattern Recognition and Machine Intelligence 
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Spring 2021"
+course_name: Courses
+course_description: "Description"
+course_semester: ""
 
 baseurl: "/courses" # the subpath of your site, e.g. /blog/
 url: "http://tofighi.github.io/" # the base hostname & protocol for your site
