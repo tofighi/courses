@@ -51,6 +51,7 @@ defaults:
     values:
       layout: "assignment"
 
+includes_dir: _includes
 
 
 plugins_dir:
