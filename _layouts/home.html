@@ -6,7 +6,7 @@ layout: default
 
     <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">
         
-        / 
+      {% if site.course_semester !="" %}  / {% endif %}
         
         {{ site.course_semester }} 
     
