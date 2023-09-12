@@ -3,7 +3,6 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
   
-{% comment %} 
 - url: /schedule/
   name: Schedule
   icon_class: fas fa-calendar-alt
@@ -24,4 +23,7 @@ items:
   name: Materials
   icon_class: fas fa-book
 
-{% endcomment %}
+- url: /policies/
+  name: Policies
+  icon_class: fas fa-scale-balanced
+
