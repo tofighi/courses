@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses</title>
+    <description>Instructor: Ghassem Tofighi
+</description>
+    <link>https://tofighi.github.io//courses/</link>
+    <atom:link href="https://tofighi.github.io//courses/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Sep 2023 23:13:31 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2023 23:13:31 -0400</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+  </channel>
+</rss>

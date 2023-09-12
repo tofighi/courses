@@ -1,0 +1,22 @@
+<div>
+    {% if include.prac.notes %}
+	{% for note in include.prac.notes %}
+    [<a href="
+    {% if note.link contains '://' %}
+      {{ note.link }} 
+    {% else %}
+      {{ note.link | prepend: site.baseurl }} 
+    {% endif %}">{{ note.name }}</a>]
+	{% endfor %}
+    {% endif %}
+    {% if include.prac.codes %}
+	{% for code in include.prac.codes %}
+    [<a href="
+    {% if code.link contains '://' %}
+      {{ code.link }} 
+    {% else %}
+      {{ code.link | prepend: site.baseurl }} 
+    {% endif %}">{{ code.name }}</a>]
+	{% endfor %}
+    {% endif %}
+</div>
