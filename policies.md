@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Project
-permalink: /project/
+title: Policies
+permalink: /policies/
 ---
