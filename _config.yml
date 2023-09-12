@@ -1,6 +1,6 @@
 # Site settings
 course_name: Courses
-course_description: "Description"
+course_description: ""
 course_semester: ""
 
 baseurl: "/courses" # the subpath of your site, e.g. /blog/
