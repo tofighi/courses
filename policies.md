@@ -20,15 +20,16 @@ This late submission policy outlines the guidelines and penalties associated wit
 
 ### General Late Submission Policy  <a name="late_general"></a>
 
-For all assignments or projects, the following late penalties will be applied based on posted deadlines on Course calendar:
+For all assignments or projects, the following late penalties will be applied based on posted deadlines on the Course calendar:
    - 10% deduction for submissions up to 24 hours after the deadline.
    - 20% deduction for submissions up to 48 hours after the deadline.
    - 30% deduction for submissions up to 72 hours after the deadline.
    - Submissions made more than 72 hours after the deadline will receive a grade of 0.
+   - **Submissions through any method other than the designated course shell assignment folder will not be evaluated or graded.**
 
 ###  Students With Accommodation Letters <a name="late_accommodation"></a>
 
-Students with documented accommodation letters are eligible for an extended deadline of an additional 72 hours for all assignments and projects. However, there is no grace period beyond the extended deadline.
+Students who possess documented accommodation letters are entitled to an extended deadline of an extra 72 hours for all assignments and projects. It's important to note that **there is no additional grace period beyond this extended deadline, and any submissions made after the 72-hour extension will receive a grade of 0.**
 
 ### Deadline Extensions for Medical or Reasonable Issues <a name="late_medical"></a>
 
