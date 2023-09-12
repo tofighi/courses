@@ -3,6 +3,8 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
+<!---
+
 - url: /schedule/
   name: Schedule
   icon_class: fas fa-calendar-alt
@@ -22,3 +24,5 @@ items:
 - url: /materials/
   name: Materials
   icon_class: fas fa-book
+
+  -->
