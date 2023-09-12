@@ -8,7 +8,9 @@ permalink: /policies/
     1. [Overview](#late_overview)
     2. [General Late Submission Policy](#late_general)
     3. [Students With Accommodation Letters](#late_accommodation)
-    4. [Deadline Extensions for Medical or Reasonable Issues] (#)
+    4. [Deadline Extensions for Medical or Reasonable Issues](#late_medical)
+    5. [Deadline Extension Announcements](#late_extensions)
+    6. [Conclusion](#late_concolusions)
 
 
 ## Late Assignment Submission Policy <a name="late"></a>
@@ -18,7 +20,7 @@ This late submission policy outlines the guidelines and penalties associated wit
 
 ### General Late Submission Policy  <a name="late_general"></a>
 
-For all assignments or projects, the following late penalties will be applied:
+For all assignments or projects, the following late penalties will be applied based on posted deadlines on Course calendar:
    - 10% deduction for submissions up to 24 hours after the deadline.
    - 20% deduction for submissions up to 48 hours after the deadline.
    - 30% deduction for submissions up to 72 hours after the deadline.
@@ -34,9 +36,9 @@ In the event of a medical or reasonable issue that prevents a student from meeti
    - Submit all necessary documents to verify the issue, which may include medical certificates or other relevant documentation, to the instructor or department.
    - The department or instructor will review the submitted documentation and make a decision regarding the extension request.
    - Requests for extensions for special cases will not be granted at the time of the request. Instead, instructors will review the documentation during the assignment grading process.
-   - The decision to accept or deny an extension request is at the sole discretion of the department or instructor.
+   - The department or instructor holds complete discretion in determining whether to accept or reject an extension request. Consequently, contacting and furnishing documentation does not guarantee the approval of your request. **It is advisable to assume that the extension request may be declined and prioritize submitting the assignment well in advance of the deadline specified on the course calendar.**
 
-### Announced Deadline Extensions <a name="late_extensions"></a>
+### Deadline Extension Announcements <a name="late_extensions"></a>
 
 Deadlines will not be extended unless a formal announcement is made on the course announcements platform, notifying all students of the extension. Students should regularly check course announcements for updates on assignment deadlines.
 
