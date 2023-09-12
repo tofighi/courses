@@ -6,7 +6,7 @@ course_semester: ""
 baseurl: "/courses" # the subpath of your site, e.g. /blog/
 url: "http://tofighi.github.io/" # the base hostname & protocol for your site
 
-schoolname: "ABC"
+schoolname: "Ghassem Tofighi"
 schoolurl: "https://ghassem.com"
 twitter_username: tofighi 
 
@@ -28,7 +28,7 @@ excerpt_separator: "<!--more-->"
 include: ['_images', '_css']
 exclude: ['develop']
 
-dateformat: "%m/%d/%Y"
+dateformat: "%B %e, %Y"
 
 future: true
 collections:
