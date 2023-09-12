@@ -28,7 +28,7 @@ excerpt_separator: "<!--more-->"
 include: ['_images', '_css']
 exclude: ['develop']
 
-dateformat: "%B %e, %Y"
+dateformat: "%b %e, %Y"
 
 future: true
 collections:
