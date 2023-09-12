@@ -7,7 +7,7 @@ baseurl: "/courses" # the subpath of your site, e.g. /blog/
 url: "http://tofighi.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Ghassem Tofighi"
-schoolurl: "https://ghassem.com"
+schoolurl: "https://tofighi.github.io/courses"
 twitter_username: tofighi 
 
 address: |
