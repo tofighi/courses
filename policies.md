@@ -36,7 +36,7 @@ Students who possess documented accommodation letters are entitled to an extende
 In the event of a medical or reasonable issue that prevents a student from meeting a deadline, the student must adhere to the following procedures:
    - Submit all necessary documents to verify the issue, which may include medical certificates or other relevant documentation, to the instructor or department.
    - The department or instructor will review the submitted documentation and make a decision regarding the extension request.
-   - Requests for extensions for special cases will not be granted at the time of the request. Instead, instructors will review the documentation during the assignment grading process.
+   - **Requests for extensions for special cases will not be granted at the time of the request**. Instead, instructors will review the documentation during the assignment grading process.
    - The department or instructor holds complete discretion in determining whether to accept or reject an extension request. Consequently, contacting and furnishing documentation does not guarantee the approval of your request. **It is advisable to assume that the extension request may be declined and prioritize submitting the assignment well in advance of the deadline specified on the course calendar.**
 
 ### Deadline Extension Announcements <a name="late_extensions"></a>
