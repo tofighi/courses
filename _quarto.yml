@@ -48,7 +48,7 @@ website:
         aria-label: GitHub       
   navbar:
     background: light
-    logo: images/favicon.png
+    logo: images/logo.svg
     logo-alt: "Ghassem Tofighi's logo."
     title: false
     collapse-below: lg
