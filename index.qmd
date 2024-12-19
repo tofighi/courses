@@ -1,5 +1,5 @@
 ---
-pagetitle: "Ghassem' Courses"
+pagetitle: "Ghassem Tofighi's Courses"
 page-layout: custom
 section-divs: false
 toc: false
@@ -25,14 +25,13 @@ creator: "@tofighi"
 
 <!--
 ::: {.hero-buttons}
-
 [Get Started](docs/get-started/){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 [Guide](docs/guide/){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
 ::: 
 -->
 :::
 
-<!--
+
 ::: {.hero-animation}
 
 <video autoplay muted playsinline loop>
@@ -40,7 +39,9 @@ creator: "@tofighi"
 </video>
 :::
 
--->
+
+:::
+
 
 :::
 
@@ -49,6 +50,7 @@ creator: "@tofighi"
 ::: {.content-block}
 
 ::: {.hello-quarto-banner}
+
 
 # Hello, Quarto 
 <ul class="nav nav-pills" id="hello-quarto-tab" role="tablist">
@@ -306,5 +308,4 @@ Publish collections of documents as a blog or full website. Create books and man
 
 :::
 :::
-
 
