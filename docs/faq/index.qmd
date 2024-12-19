@@ -1,9 +1,8 @@
+:::{.callout-tip}
 ---
 title: "Assignment Policy"
 description: Comprehensive guidelines on assignment submissions, penalties for late submissions, accommodations, and extension requests.
 ---
-
-## Assignment Policy
 
 ### Overview
 
