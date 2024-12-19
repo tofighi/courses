@@ -13,8 +13,9 @@ format:
 - **If your course has a TA, communicate with your TA** about assignments, labs, or extension requests instead of the instructor.  
 - **Assignments submitted by email or through any unapproved method** will receive a grade of 0.  
 - **Adhere strictly to the deadlines posted on the course calendar** in the course shell.
+:::
 
-::: {.callout-caution
+::: {.callout-caution}
 ## Late Assignment Submission
 
 This policy outlines the guidelines and penalties for assignment submissions, including late submission penalties, accommodations for students with special needs, and the process for requesting deadline extensions due to medical or reasonable issues.
@@ -57,3 +58,4 @@ Extensions to deadlines will only occur if formally announced on the course anno
 ### Conclusion
 
 All students are required to follow the submission deadlines and adhere to the late submission penalties outlined in this policy. Students with accommodations or legitimate medical/reasonable issues must follow the procedures detailed above and provide the required documentation. Extension decisions will be made objectively to ensure fairness and consistency.
+:::
