@@ -11,7 +11,7 @@ project:
 website:
   title: "Ghassem Tofighi"
   image: "images/dark-back.jpg"
-  favicon: "images/favicon.png"
+  favicon: "images/logo.svg"
   google-analytics: "G-aaaaa"
   open-graph: true
   twitter-card: true
