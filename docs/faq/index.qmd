@@ -8,11 +8,18 @@ format:
     toc-location: right
 ---
 
-### Late Assignment Submission
+## Assignment Submission
+- **Do not email the instructor regarding assignment extensions.** Follow the late submission policy outlined in this document.  
+- **If your course has a TA, communicate with your TA** about assignments, labs, or extension requests instead of the instructor.  
+- **Assignments submitted by email or through any unapproved method** will receive a grade of 0.  
+- **Adhere strictly to the deadlines posted on the course calendar** in the course shell.
+
+
+## Late Assignment Submission
 
 This policy outlines the guidelines and penalties for assignment submissions, including late submission penalties, accommodations for students with special needs, and the process for requesting deadline extensions due to medical or reasonable issues.
 
-#### General Late Submission Policy
+### General Late Submission Policy
 
 Late submissions are subject to the following penalties, as outlined in the table below:
 
@@ -25,14 +32,14 @@ Late submissions are subject to the following penalties, as outlined in the tabl
 
 - Submissions through any method other than the designated course shell assignment folder will **not** be evaluated or graded.
 
-#### Students With Accommodation Letters
+### Students With Accommodation Letters
 
 Students with documented accommodation letters are eligible for an **additional 72-hour extension** for all assignments and projects. However:
 
 - No further extensions or grace periods are allowed beyond the extended deadline.
 - Submissions made after this extended deadline will receive a grade of 0.
 
-#### Deadline Extensions for Medical or Reasonable Issues
+### Deadline Extensions for Medical or Reasonable Issues
 
 In cases where medical or reasonable issues prevent meeting a deadline, students must follow these procedures:
 
@@ -43,10 +50,10 @@ In cases where medical or reasonable issues prevent meeting a deadline, students
    - Providing documentation does not guarantee approval.
    - Students are advised to plan for the possibility of the extension request being denied and aim to submit assignments on time.
 
-#### Deadline Extension Announcements
+### Deadline Extension Announcements
 
 Extensions to deadlines will only occur if formally announced on the course announcements platform. Students should monitor these announcements regularly for updates.
 
-#### Conclusion
+### Conclusion
 
 All students are required to follow the submission deadlines and adhere to the late submission penalties outlined in this policy. Students with accommodations or legitimate medical/reasonable issues must follow the procedures detailed above and provide the required documentation. Extension decisions will be made objectively to ensure fairness and consistency.
