@@ -8,8 +8,6 @@ format:
     toc-location: right
 ---
 
-
-:::{.callout-tip}
 ### Late Assignment Submission
 
 This policy outlines the guidelines and penalties for assignment submissions, including late submission penalties, accommodations for students with special needs, and the process for requesting deadline extensions due to medical or reasonable issues.
