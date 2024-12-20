@@ -15,10 +15,10 @@ website:
   google-analytics: "G-aaaaa"
   open-graph: true
   twitter-card: true
-  #site-path: "/web2/"
-  site-url: https://courses.ghassem.com/
-  repo-url: https://github.com/tofighi/web2
-  issue-url: https://github.com/tofighi/web2/issues/new/choose
+  #site-path: "/courses/"
+  site-url: https://tofighi.github.io/courses
+  repo-url: https://github.com/tofighi/courses
+  issue-url: https://github.com/tofighi/courses/issues/new/choose
   repo-actions: [edit]
   page-navigation: true
   bread-crumbs: true
@@ -55,7 +55,7 @@ website:
     left:
       - text: "About"
         href: about.qmd
-      - text: "FAQ"
+      - text: "Assignments"
         href: docs/faq/index.qmd
       - text: "Ask a Question"
         href: https://askdatascience.com
@@ -69,9 +69,9 @@ website:
             href: "#"
 
     tools:
-      - icon: twitter
-        href: https://twitter.com/tofighi
-        text: Twitter
+      - icon: x
+        href: https://x.com/tofighi
+        text: X
       - icon: github
         href: https://github.com/tofighi
         text: GitHub 
