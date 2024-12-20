@@ -56,7 +56,7 @@ website:
       - text: "About"
         href: about.qmd
       - text: "Assignments"
-        href: docs/faq/index.qmd
+        href: docs/assignmenents/index.qmd
       - text: "Ask a Question"
         href: https://askdatascience.com
       - text: "Help"
@@ -69,7 +69,7 @@ website:
             href: "#"
 
     tools:
-      - icon: x
+      - icon: x-twitter
         href: https://x.com/tofighi
         text: X
       - icon: github
