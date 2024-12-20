@@ -2,12 +2,6 @@
 ---
 title: "Assignment Policy"
 description: Comprehensive guidelines on assignment submissions, penalties for late submissions, accommodations, and extension requests.
-format:
-  html:
-    toc: true
-    theme:
-      light: [cosmo, theme.scss]
-    toc-location: right
 ---
 
 ## Assignment Submission
