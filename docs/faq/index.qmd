@@ -5,6 +5,8 @@ description: Comprehensive guidelines on assignment submissions, penalties for l
 format:
   html:
     toc: true
+    theme:
+      light: [cosmo, theme.scss]
     toc-location: right
 ---
 
