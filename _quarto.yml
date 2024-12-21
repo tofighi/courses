@@ -15,7 +15,7 @@ website:
   open-graph: true
   twitter-card: true
   #site-path: "/courses/"
-  site-url: https://tofighi.github.io/courses
+  site-url: https://courses.ghassem.com
   repo-url: https://github.com/tofighi/courses
   issue-url: https://github.com/tofighi/courses/issues/new/choose
   repo-actions: [edit]
