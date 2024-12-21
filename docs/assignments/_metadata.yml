@@ -1,11 +1,1 @@
 css: styles.css
-sidebar:
-  - id: assignments
-    collapse-level: 3
-    contents:
-      - section: "Assignments"
-        contents:
-          - docs/assignments/index.qmd
-          - docs/assignments/about.qmd
-          - docs/assignments/about-assignments.qmd
-aa
