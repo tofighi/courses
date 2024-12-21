@@ -3,6 +3,7 @@ title: "Practical Deep Learning"
 image: https://course.fast.ai/www/social.png
 description: A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 brand: _brand.yml
+logo: logo.svg
 ---
 
 :::{.callout-tip}
