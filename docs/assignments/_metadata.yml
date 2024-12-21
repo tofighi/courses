@@ -1,3 +1,4 @@
-sidebar: true
+sidebar:
+  contents: auto
 toc-location: right
 css: styles.css
