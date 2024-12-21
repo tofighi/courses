@@ -81,6 +81,7 @@ website:
       collapse-level: 3
       contents:
         - section: "Assignments"
+          contents:
             - docs/assignment/index.qmd
             - docs/assignment/about.qmd
     - id: deep-learning
