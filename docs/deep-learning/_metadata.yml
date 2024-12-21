@@ -1,3 +1,4 @@
+sidebar: true
 website:
   sidebar:
     - id: machine-learning
