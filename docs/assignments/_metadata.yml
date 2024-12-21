@@ -1,4 +1,4 @@
 sidebar:
-  contents: auto
-toc-location: right
+  contents:
+    - index.qmd
 css: styles.css
