@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning for Students"
-image: 
+image: false
 description: A Machine Learning course for students.
 creator: "@tofighi"
 ---
