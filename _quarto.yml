@@ -77,6 +77,12 @@ website:
         text: GitHub 
 
   sidebar:
+    - id: assignments
+      collapse-level: 3
+      contents:
+        - section: "Assignments"
+            - docs/assignment/index.qmd
+            - docs/assignment/about.qmd
     - id: deep-learning
       collapse-level: 3
       contents:
