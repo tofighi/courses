@@ -1,22 +1,11 @@
-# This file applies only to the 'docs/deep-learning' section
-project:
-  type: website
-  output-dir: ../../_site/docs/deep-learning
-
 website:
-  title: "Deep Learning"
-  page-navigation: true
-  search: true
-
-sidebar: true  # Enable sidebar only for this section
-
-sidebar:
-  - id: deep-learning
-    collapse-level: 3
-    contents:
-      - section: "Deep Learning"
-        href: index.qmd
-        contents:
+  sidebar:
+    - id: machine-learning
+      collapse-level: 3
+      contents:
+        - section: "Machine Learning"
+          href: index.qmd
+          contents:
           - section: Part 1
             contents:
               - lesson1.qmd
@@ -70,27 +59,3 @@ sidebar:
               - Resources/forums.qmd
               - Resources/kaggle.qmd
               - Resources/testimonials.qmd
-
-format:
-  html:
-    toc: true
-    sidebar: true  # Sidebar enabled for the deep-learning section
-    theme:
-      light: [cosmo, theme.scss]
-    code-copy: true
-    code-overflow: wrap
-    css: ../../styles.css
-    include-before-body: |
-      <!-- Link to Google Fonts -->
-      <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Raleway:wght@400;700&display=swap" rel="stylesheet">
-      <style>
-        /* Apply Lato font to headers (h1, h2, h3, etc.) */
-        h1, h2, h3, h4, h5, h6 {
-          font-family: 'Lato', sans-serif;
-        }
-        
-        /* Apply Raleway font to body text */
-        body {
-          font-family: 'Raleway', sans-serif;
-        }
-      </style>
