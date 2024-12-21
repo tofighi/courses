@@ -1,5 +1,7 @@
 logo: 
-  medium: logo.svg
+  small: docs/deep-learning/logo.svg
+  medium: docs/deep-learning/logo.svg
+  large: docs/deep-learning/logo.svg
 
 typography:
   fonts:
