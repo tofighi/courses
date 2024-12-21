@@ -1,9 +1,0 @@
-logo: 
-  medium: logo.svg
-
-typography:
-  fonts:
-    - family: Lato
-      source: google
-  base: Lato
-  headings: Raleway
