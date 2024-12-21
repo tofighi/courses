@@ -3,7 +3,7 @@ logo:
 
 typography:
   fonts:
-    - family: Roboto
+    - family: Montserrat
       source: google
-  base: Roboto
-  headings: Jura
+  base: Montserrat
+  headings: Montserrat
