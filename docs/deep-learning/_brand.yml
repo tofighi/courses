@@ -1,11 +1,6 @@
-logo: 
-  small: docs/deep-learning/logo.svg
-  medium: docs/deep-learning/logo.svg
-  large: docs/deep-learning/logo.svg
-
 typography:
   fonts:
-    - family: Jura
+    - family: Open Sans
       source: google
-  base: Roboto
-  headings: Jura
+  base: Open Sans
+  headings: Open Sans
