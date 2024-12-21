@@ -1,0 +1,9 @@
+logo: 
+  medium: logo.svg
+
+typography:
+  fonts:
+    - family: Roboto
+      source: google
+  base: Roboto
+  headings: Jura
