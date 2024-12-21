@@ -7,6 +7,7 @@ project:
     - "/_redirects"
     - CNAME
 
+
 website:
   title: "Ghassem Tofighi"
   image: "images/dark-back.jpg"
@@ -15,7 +16,7 @@ website:
   open-graph: true
   twitter-card: true
   #site-path: "/courses/"
-  site-url: https://courses.ghassem.com
+  site-url: https://tofighi.github.io/courses
   repo-url: https://github.com/tofighi/courses
   issue-url: https://github.com/tofighi/courses/issues/new/choose
   repo-actions: [edit]
@@ -24,7 +25,7 @@ website:
   search:
     show-item-context: true
     type: overlay
-
+    
   page-footer:
     left: |
       Proudly supported by
@@ -75,7 +76,66 @@ website:
         href: https://github.com/tofighi
         text: GitHub 
 
-# Sidebar for Deep Learning is moved to docs/deep-learning/_quarto.yml
+  sidebar:
+    - id: deep-learning
+      collapse-level: 3
+      contents:
+        - section: "Deep Learning"
+          href: docs/deep-learning/index.qmd
+          contents:
+          - section: Part 1
+            contents:
+              - docs/deep-learning/lesson1.qmd
+              - docs/deep-learning/lesson2.qmd
+              - docs/deep-learning/lesson3.qmd
+              - docs/deep-learning/lesson4.qmd
+              - docs/deep-learning/lesson5.qmd
+              - docs/deep-learning/lesson6.qmd
+              - docs/deep-learning/lesson7.qmd
+              - docs/deep-learning/lesson8.qmd
+              - docs/deep-learning/lesson8a.qmd
+              - section: Summaries
+                contents:
+                  - docs/deep-learning/Summaries/lesson1.qmd
+                  - docs/deep-learning/Summaries/lesson2.qmd
+                  - docs/deep-learning/Summaries/lesson3.qmd
+                  - docs/deep-learning/Summaries/lesson4.qmd
+                  - docs/deep-learning/Summaries/lesson5.qmd
+                  - docs/deep-learning/Summaries/lesson6.qmd
+                  - docs/deep-learning/Summaries/lesson7.qmd
+                  - docs/deep-learning/Summaries/lesson8.qmd
+          - text: "---"
+          - section: Part 2
+            contents:
+              - docs/deep-learning/part2.qmd
+              - docs/deep-learning/lesson9.qmd
+              - docs/deep-learning/lesson10.qmd
+              - docs/deep-learning/lesson11.qmd
+              - docs/deep-learning/lesson12.qmd
+              - docs/deep-learning/lesson13.qmd
+              - docs/deep-learning/lesson14.qmd
+              - docs/deep-learning/lesson15.qmd
+              - docs/deep-learning/lesson16.qmd
+              - docs/deep-learning/lesson17.qmd
+              - docs/deep-learning/lesson18.qmd
+              - docs/deep-learning/lesson19.qmd
+              - docs/deep-learning/lesson20.qmd
+              - docs/deep-learning/lesson21.qmd
+              - docs/deep-learning/lesson22.qmd
+              - docs/deep-learning/lesson23.qmd
+              - docs/deep-learning/lesson24.qmd
+              - docs/deep-learning/lesson25.qmd
+              - text: "Bonus: Lesson 9a"
+                href: https://youtu.be/0_BBRNYInx8
+              - text: "Bonus: Lesson 9b"
+                href: https://youtu.be/mYpjmM7O-30
+          - text: "---"
+          - section: Resources
+            contents:
+              - docs/deep-learning/Resources/book.qmd
+              - docs/deep-learning/Resources/forums.qmd
+              - docs/deep-learning/Resources/kaggle.qmd
+              - docs/deep-learning/Resources/testimonials.qmd
 
 bibliography: references.bib
 
@@ -93,8 +153,10 @@ format:
       body-width: 900px
       margin-width: 300px
 
+
 filters:
   - filters/tools-tabset.lua
+
 
 freeze: true
 
